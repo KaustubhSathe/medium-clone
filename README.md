@@ -1,3 +1,3 @@
-# realworld-web
+# realworld
 
-realworld web app
+Contains backend, web and react-native code
